@@ -23,10 +23,10 @@ This project applies deep learning to segment brain tumors in MRI scans. Two mod
 
 ## Results
 
-| Model | Dice Score | IoU |
-|-------|------------|-----|
-| CNN   | 0.7019     | 0.4996 |
-| FNN   |  0.3478    | 0.4959  |
+| Model | Dice Score | IoU | Precision | Recall |
+|-------|------------|-----|-----------|--------|
+| CNN   | 0.7019     | 0.4996 |   0.7860     |    0.7714    |
+| FNN   |  0.3478    | 0.4959  | 0.5319 |  0.4377    |
 
 ---
 
