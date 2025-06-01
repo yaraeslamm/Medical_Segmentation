@@ -32,7 +32,8 @@ This project applies deep learning to segment brain tumors in MRI scans. Two mod
 
 ## Try It
 
-- [Open the Colab Notebook](https://colab.research.google.com/drive/YOUR_NOTEBOOK_LINK)
+- [Open the Colab Notebook CNN:](https://colab.research.google.com/drive/1b5m5f4l37SRn7kx3XtKAgEEIrL2wI3U7?usp=sharing)
+- [Open the Colab Notebook FNN:](https://colab.research.google.com/drive/12EeE7GivImIqn3a3vpD9DhLajhTmLpmt?usp=sharing)
 - Or view the full `.ipynb` in this repo
 
 ---
