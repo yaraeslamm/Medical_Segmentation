@@ -38,7 +38,7 @@ This project applies deep learning to segment brain tumors in MRI scans. Two mod
 
 ---
 
-## 🔧 Tools
+## Tools
 
 - Python, TensorFlow
 - NumPy, Matplotlib
