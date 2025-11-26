@@ -37,7 +37,7 @@ This project applies deep learning to **segment brain tumors** in MRI scans. Two
 ## Try It
 
 - **Model**: [yaraa11/brain-tumor-segmentation](https://huggingface.co/yaraa11/brain-tumor-segmentation)  
-- **Demo **: [Try the Model Online](https://huggingface.co/spaces/yaraa11/brain-tumor-segmentation-app)
+- **Demo**: [Try the Model Online](https://huggingface.co/spaces/yaraa11/brain-tumor-segmentation-app)
 - **CNN Colab Notebook**: [Open in Colab](./CNN_Model.ipynb)  
 - **FNN Colab Notebook**: [Open in Colab](./FeedForwardModel.ipynb)  
 
